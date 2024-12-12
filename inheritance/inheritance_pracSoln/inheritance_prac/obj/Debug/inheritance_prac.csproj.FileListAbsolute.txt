@@ -1,0 +1,7 @@
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\bin\Debug\inheritance_prac.exe.config
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\bin\Debug\inheritance_prac.exe
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\bin\Debug\inheritance_prac.pdb
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\obj\Debug\inheritance_prac.csproj.AssemblyReference.cache
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\obj\Debug\inheritance_prac.csproj.CoreCompileInputs.cache
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\obj\Debug\inheritance_prac.exe
+E:\C#\inheritance\inheritance_pracSoln\inheritance_prac\obj\Debug\inheritance_prac.pdb

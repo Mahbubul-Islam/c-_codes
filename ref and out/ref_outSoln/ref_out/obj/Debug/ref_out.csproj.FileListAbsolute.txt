@@ -1,0 +1,7 @@
+E:\C#\ref and out\ref_outSoln\ref_out\obj\Debug\ref_out.csproj.AssemblyReference.cache
+E:\C#\ref and out\ref_outSoln\ref_out\obj\Debug\ref_out.csproj.CoreCompileInputs.cache
+E:\C#\ref and out\ref_outSoln\ref_out\bin\Debug\ref_out.exe.config
+E:\C#\ref and out\ref_outSoln\ref_out\bin\Debug\ref_out.exe
+E:\C#\ref and out\ref_outSoln\ref_out\bin\Debug\ref_out.pdb
+E:\C#\ref and out\ref_outSoln\ref_out\obj\Debug\ref_out.exe
+E:\C#\ref and out\ref_outSoln\ref_out\obj\Debug\ref_out.pdb

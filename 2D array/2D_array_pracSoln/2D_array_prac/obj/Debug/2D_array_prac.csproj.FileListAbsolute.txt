@@ -1,0 +1,7 @@
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\bin\Debug\2D_array_prac.exe.config
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\bin\Debug\2D_array_prac.exe
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\bin\Debug\2D_array_prac.pdb
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\obj\Debug\2D_array_prac.csproj.AssemblyReference.cache
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\obj\Debug\2D_array_prac.csproj.CoreCompileInputs.cache
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\obj\Debug\2D_array_prac.exe
+E:\C#\2D array\2D_array_pracSoln\2D_array_prac\obj\Debug\2D_array_prac.pdb

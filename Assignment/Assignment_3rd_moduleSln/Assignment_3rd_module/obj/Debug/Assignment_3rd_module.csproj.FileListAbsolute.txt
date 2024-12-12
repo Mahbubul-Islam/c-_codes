@@ -1,0 +1,7 @@
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\bin\Debug\Assignment_3rd_module.exe.config
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\bin\Debug\Assignment_3rd_module.exe
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\bin\Debug\Assignment_3rd_module.pdb
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\obj\Debug\Assignment_3rd_module.csproj.AssemblyReference.cache
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\obj\Debug\Assignment_3rd_module.csproj.CoreCompileInputs.cache
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\obj\Debug\Assignment_3rd_module.exe
+E:\C#\Assignment\Assignment_3rd_moduleSln\Assignment_3rd_module\obj\Debug\Assignment_3rd_module.pdb

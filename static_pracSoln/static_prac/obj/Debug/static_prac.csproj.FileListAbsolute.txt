@@ -1,0 +1,7 @@
+E:\C#\static_pracSoln\static_prac\bin\Debug\static_prac.exe.config
+E:\C#\static_pracSoln\static_prac\bin\Debug\static_prac.exe
+E:\C#\static_pracSoln\static_prac\bin\Debug\static_prac.pdb
+E:\C#\static_pracSoln\static_prac\obj\Debug\static_prac.csproj.AssemblyReference.cache
+E:\C#\static_pracSoln\static_prac\obj\Debug\static_prac.csproj.CoreCompileInputs.cache
+E:\C#\static_pracSoln\static_prac\obj\Debug\static_prac.exe
+E:\C#\static_pracSoln\static_prac\obj\Debug\static_prac.pdb
