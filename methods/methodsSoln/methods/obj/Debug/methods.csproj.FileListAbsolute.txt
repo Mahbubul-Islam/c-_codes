@@ -1,0 +1,7 @@
+E:\C#\methods\methodsSoln\methods\bin\Debug\methods.exe.config
+E:\C#\methods\methodsSoln\methods\bin\Debug\methods.exe
+E:\C#\methods\methodsSoln\methods\bin\Debug\methods.pdb
+E:\C#\methods\methodsSoln\methods\obj\Debug\methods.csproj.AssemblyReference.cache
+E:\C#\methods\methodsSoln\methods\obj\Debug\methods.csproj.CoreCompileInputs.cache
+E:\C#\methods\methodsSoln\methods\obj\Debug\methods.exe
+E:\C#\methods\methodsSoln\methods\obj\Debug\methods.pdb

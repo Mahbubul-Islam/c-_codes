@@ -1,0 +1,7 @@
+E:\C#\mid preparetion\code_writingSoln\code_writing\bin\Debug\code_writing.exe.config
+E:\C#\mid preparetion\code_writingSoln\code_writing\bin\Debug\code_writing.exe
+E:\C#\mid preparetion\code_writingSoln\code_writing\bin\Debug\code_writing.pdb
+E:\C#\mid preparetion\code_writingSoln\code_writing\obj\Debug\code_writing.csproj.AssemblyReference.cache
+E:\C#\mid preparetion\code_writingSoln\code_writing\obj\Debug\code_writing.csproj.CoreCompileInputs.cache
+E:\C#\mid preparetion\code_writingSoln\code_writing\obj\Debug\code_writing.exe
+E:\C#\mid preparetion\code_writingSoln\code_writing\obj\Debug\code_writing.pdb

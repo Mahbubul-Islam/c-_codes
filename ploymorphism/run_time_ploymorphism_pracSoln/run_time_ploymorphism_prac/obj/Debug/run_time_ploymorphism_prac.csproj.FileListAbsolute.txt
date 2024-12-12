@@ -1,0 +1,7 @@
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\bin\Debug\run_time_ploymorphism_prac.exe.config
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\bin\Debug\run_time_ploymorphism_prac.exe
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\bin\Debug\run_time_ploymorphism_prac.pdb
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\obj\Debug\run_time_ploymorphism_prac.csproj.AssemblyReference.cache
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\obj\Debug\run_time_ploymorphism_prac.csproj.CoreCompileInputs.cache
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\obj\Debug\run_time_ploymorphism_prac.exe
+E:\C#\ploymorphism\run_time_ploymorphism_pracSoln\run_time_ploymorphism_prac\obj\Debug\run_time_ploymorphism_prac.pdb

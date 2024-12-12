@@ -1,0 +1,7 @@
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\bin\Debug\Assignment_2nd_module.exe.config
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\bin\Debug\Assignment_2nd_module.exe
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\bin\Debug\Assignment_2nd_module.pdb
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\obj\Debug\Assignment_2nd_module.csproj.AssemblyReference.cache
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\obj\Debug\Assignment_2nd_module.csproj.CoreCompileInputs.cache
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\obj\Debug\Assignment_2nd_module.exe
+E:\C#\Assignment\Assignment_2nd_moduleSoln\Assignment_2nd_module\obj\Debug\Assignment_2nd_module.pdb

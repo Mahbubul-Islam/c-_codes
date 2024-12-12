@@ -1,0 +1,7 @@
+E:\C#\Confu\ConfusionSoln\Confusion\bin\Debug\Confusion.exe.config
+E:\C#\Confu\ConfusionSoln\Confusion\bin\Debug\Confusion.exe
+E:\C#\Confu\ConfusionSoln\Confusion\bin\Debug\Confusion.pdb
+E:\C#\Confu\ConfusionSoln\Confusion\obj\Debug\Confusion.csproj.AssemblyReference.cache
+E:\C#\Confu\ConfusionSoln\Confusion\obj\Debug\Confusion.csproj.CoreCompileInputs.cache
+E:\C#\Confu\ConfusionSoln\Confusion\obj\Debug\Confusion.exe
+E:\C#\Confu\ConfusionSoln\Confusion\obj\Debug\Confusion.pdb

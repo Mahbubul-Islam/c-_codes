@@ -1,0 +1,7 @@
+E:\C#\mid preparetion\main1Soln\main1\bin\Debug\main1.exe.config
+E:\C#\mid preparetion\main1Soln\main1\bin\Debug\main1.exe
+E:\C#\mid preparetion\main1Soln\main1\bin\Debug\main1.pdb
+E:\C#\mid preparetion\main1Soln\main1\obj\Debug\main1.csproj.AssemblyReference.cache
+E:\C#\mid preparetion\main1Soln\main1\obj\Debug\main1.csproj.CoreCompileInputs.cache
+E:\C#\mid preparetion\main1Soln\main1\obj\Debug\main1.exe
+E:\C#\mid preparetion\main1Soln\main1\obj\Debug\main1.pdb

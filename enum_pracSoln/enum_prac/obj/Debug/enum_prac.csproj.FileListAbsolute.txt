@@ -1,0 +1,7 @@
+E:\C#\enum_pracSoln\enum_prac\bin\Debug\enum_prac.exe.config
+E:\C#\enum_pracSoln\enum_prac\bin\Debug\enum_prac.exe
+E:\C#\enum_pracSoln\enum_prac\bin\Debug\enum_prac.pdb
+E:\C#\enum_pracSoln\enum_prac\obj\Debug\enum_prac.csproj.AssemblyReference.cache
+E:\C#\enum_pracSoln\enum_prac\obj\Debug\enum_prac.csproj.CoreCompileInputs.cache
+E:\C#\enum_pracSoln\enum_prac\obj\Debug\enum_prac.exe
+E:\C#\enum_pracSoln\enum_prac\obj\Debug\enum_prac.pdb

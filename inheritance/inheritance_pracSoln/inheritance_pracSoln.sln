@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.12.35506.116 d17.12
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "inheritance_prac", "inheritance_prac\inheritance_prac.csproj", "{BDF1ADA3-EBE0-4D2D-A7D5-DB78F9F7F364}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BDF1ADA3-EBE0-4D2D-A7D5-DB78F9F7F364}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BDF1ADA3-EBE0-4D2D-A7D5-DB78F9F7F364}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BDF1ADA3-EBE0-4D2D-A7D5-DB78F9F7F364}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BDF1ADA3-EBE0-4D2D-A7D5-DB78F9F7F364}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

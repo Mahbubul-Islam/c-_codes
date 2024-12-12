@@ -1,0 +1,7 @@
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\bin\Debug\protected_internal_prac.exe.config
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\bin\Debug\protected_internal_prac.exe
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\bin\Debug\protected_internal_prac.pdb
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\obj\Debug\protected_internal_prac.csproj.AssemblyReference.cache
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\obj\Debug\protected_internal_prac.csproj.CoreCompileInputs.cache
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\obj\Debug\protected_internal_prac.exe
+E:\C#\protected internal\protected_internal_pracSoln\protected_internal_prac\obj\Debug\protected_internal_prac.pdb

@@ -1,0 +1,7 @@
+E:\C#\StructPrac\StructPracSoln\StructPrac\bin\Debug\StructPrac.exe.config
+E:\C#\StructPrac\StructPracSoln\StructPrac\bin\Debug\StructPrac.exe
+E:\C#\StructPrac\StructPracSoln\StructPrac\bin\Debug\StructPrac.pdb
+E:\C#\StructPrac\StructPracSoln\StructPrac\obj\Debug\StructPrac.csproj.AssemblyReference.cache
+E:\C#\StructPrac\StructPracSoln\StructPrac\obj\Debug\StructPrac.csproj.CoreCompileInputs.cache
+E:\C#\StructPrac\StructPracSoln\StructPrac\obj\Debug\StructPrac.exe
+E:\C#\StructPrac\StructPracSoln\StructPrac\obj\Debug\StructPrac.pdb

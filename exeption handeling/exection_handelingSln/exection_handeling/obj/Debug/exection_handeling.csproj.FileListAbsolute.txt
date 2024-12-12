@@ -1,0 +1,7 @@
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\bin\Debug\exection_handeling.exe.config
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\bin\Debug\exection_handeling.exe
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\bin\Debug\exection_handeling.pdb
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\obj\Debug\exection_handeling.csproj.AssemblyReference.cache
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\obj\Debug\exection_handeling.csproj.CoreCompileInputs.cache
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\obj\Debug\exection_handeling.exe
+E:\C#\exeption handeling\exection_handelingSln\exection_handeling\obj\Debug\exection_handeling.pdb

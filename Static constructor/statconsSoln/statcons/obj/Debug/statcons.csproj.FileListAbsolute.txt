@@ -1,0 +1,7 @@
+E:\C#\Static constructor\statconsSoln\statcons\bin\Debug\statcons.exe.config
+E:\C#\Static constructor\statconsSoln\statcons\bin\Debug\statcons.exe
+E:\C#\Static constructor\statconsSoln\statcons\bin\Debug\statcons.pdb
+E:\C#\Static constructor\statconsSoln\statcons\obj\Debug\statcons.csproj.AssemblyReference.cache
+E:\C#\Static constructor\statconsSoln\statcons\obj\Debug\statcons.csproj.CoreCompileInputs.cache
+E:\C#\Static constructor\statconsSoln\statcons\obj\Debug\statcons.exe
+E:\C#\Static constructor\statconsSoln\statcons\obj\Debug\statcons.pdb
