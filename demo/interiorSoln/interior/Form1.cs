@@ -17,6 +17,8 @@ namespace interior
             InitializeComponent();
             sidebar.Width = 43; // Set to collapsed width
             sidebarExpand = false; // Sidebar is collapsed by default
+            usertoolsContainer.Height = 55;
+            sidebarExpand = false;
         }
 
         private void pictureBox2_Click(object sender, EventArgs e)
@@ -163,6 +165,11 @@ namespace interior
         }
 
         private void button1_Click(object sender, EventArgs e)
+        {
+
+        }
+
+        private void usertoolsPanel_Paint(object sender, PaintEventArgs e)
         {
 
         }

@@ -143,6 +143,7 @@
             this.usertoolsPanel.Name = "usertoolsPanel";
             this.usertoolsPanel.Size = new System.Drawing.Size(250, 55);
             this.usertoolsPanel.TabIndex = 0;
+            this.usertoolsPanel.Paint += new System.Windows.Forms.PaintEventHandler(this.usertoolsPanel_Paint);
             this.usertoolsPanel.MouseClick += new System.Windows.Forms.MouseEventHandler(this.usertoolsPanel_MouseClick);
             // 
             // usertoolsLabel
