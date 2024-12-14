@@ -1,0 +1,10 @@
+E:\C#\demo\slidebarSoln\slidebar\bin\Debug\slidebar.exe.config
+E:\C#\demo\slidebarSoln\slidebar\bin\Debug\slidebar.exe
+E:\C#\demo\slidebarSoln\slidebar\bin\Debug\slidebar.pdb
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.csproj.AssemblyReference.cache
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.main_Form.resources
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.Properties.Resources.resources
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.csproj.GenerateResource.cache
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.csproj.CoreCompileInputs.cache
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.exe
+E:\C#\demo\slidebarSoln\slidebar\obj\Debug\slidebar.pdb

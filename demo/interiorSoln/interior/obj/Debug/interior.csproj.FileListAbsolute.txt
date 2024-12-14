@@ -1,0 +1,10 @@
+E:\C#\demo\interiorSoln\interior\bin\Debug\interior.exe.config
+E:\C#\demo\interiorSoln\interior\bin\Debug\interior.exe
+E:\C#\demo\interiorSoln\interior\bin\Debug\interior.pdb
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.csproj.AssemblyReference.cache
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.Form1.resources
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.Properties.Resources.resources
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.csproj.GenerateResource.cache
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.csproj.CoreCompileInputs.cache
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.exe
+E:\C#\demo\interiorSoln\interior\obj\Debug\interior.pdb
